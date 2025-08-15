@@ -65,19 +65,19 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email Us",
-      details: "hello@voiceforpeace.org",
+      details: "siddesh.jain@gamil.com",
       description: "Send us a message anytime",
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: "+1 (555) 123-PEACE",
-      description: "Mon-Fri, 9AM-5PM EST",
+      details: "91+6265376721",
+      description: "Mon-Fri, 9AM-5PM IST",
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "123 Peace Avenue, Unity City",
+      details: "Neelbad,Bhopal,Billabong",
       description: "Open for appointments",
     },
     {
